@@ -1,3 +1,3 @@
-[https://zaeemzadeh.com/](zaeemzadeh.com) (behind the scenes)
+[zaeemzadeh.com](https://zaeemzadeh.com/) (behind the scenes)
 
 Original template can be found [here](https://github.com/BlackrockDigital/startbootstrap-resume).
